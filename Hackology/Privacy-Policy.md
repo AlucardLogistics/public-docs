@@ -11,6 +11,6 @@ We do not collect, transmit, or share personal or sensitive user data. Any puzzl
 This app operates entirely offline and does not use any third-party analytics, tracking, or advertising SDKs.
 
 ## 3. Contact Us
-If you have any questions regarding this Privacy Policy, feel free to contact us at:
-**Email:**      sogardevz@gmail.com
+If you have any questions regarding this Privacy Policy, feel free to contact us at:  
+**Email:**      sogardevz@gmail.com  
 **Discord:**    https://discord.gg/EZwjZnTqNf
